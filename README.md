@@ -2,6 +2,7 @@ This is the source code for the paper :
 
 ## Joint-Inference-of-selection-and-number-of-selected-target
 
+- **input**: Contains the input haplotype dataset.
 - **Distance.py**: Contains the distance metric adaptive-l1-penalized logistics classification [3]. 
 - **Inference_s.py**: Contains the main ABC algorithm with specify priors [1] 
 - **Statistics_new.py**: Contains the summary statistics calculations [4]. 
