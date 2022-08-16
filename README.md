@@ -8,6 +8,7 @@ Joint-Inference-of-selection-and-number-of-selected-target
 **model_mimiCREE.py**: Contains simulation model by using mimiCREE2 [2]. 
 **model_sim.py**: Contains the simulation code for haploid individual using multinomial distribution.
 
+
 [1] Carlo Albert, Hans R Künsch, and Andreas Scheidegger. A simulated annealing approach to approximate bayes computations. Statistics and computing, 25(6):1217–1232, 2015.
 
 [2] Christos Vlachos and Robert Kofler. Mimicree2: Genome-wide forward simulations of evolve and resequencing studies. PLoS computational biology, 14(8):e1006413, 2018.
