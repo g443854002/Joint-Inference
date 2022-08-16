@@ -1,5 +1,7 @@
 This is the source code for the paper :
 
+Joint-Inference-of-selection-and-number-of-selected-target
+
 Distance.py: Contains the distance metric adaptive-l1-penalized logistics classification [3]. Inference_s.py: Contains the main ABC algorithm with specify priors [1] Statistics_new.py: Contains the summary statistics calculations [4]. model_mimiCREE.py: Contains simulation model by using mimiCREE2 [2]. model_sim.py: Contains the simulation code for haploid individual using multinomial distribution.
 
 [1] Carlo Albert, Hans R Künsch, and Andreas Scheidegger. A simulated annealing approach to approximate bayes computations. Statistics and computing, 25(6):1217–1232, 2015.
