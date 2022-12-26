@@ -10,7 +10,7 @@ This is the source code for the paper :
 - **model_sim.py**: Contains the simulation code for haploid individual using multinomial distribution.
 
 ABCpy pacakage available at [here](https://github.com/eth-cscs/abcpy)
-mimiCREE2 user manual available at [here]([https://github.com/eth-cscs/abcpy](https://sourceforge.net/p/mimicree2/wiki/Home/))
+mimiCREE2 user manual available at [here](https://sourceforge.net/p/mimicree2/wiki/Home/)
 
 [1] Carlo Albert, Hans R Künsch, and Andreas Scheidegger. A simulated annealing approach to approximate bayes computations. Statistics and computing, 25(6):1217–1232, 2015.
 
